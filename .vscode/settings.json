@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.linux": {
+    "PATH": "/home/fikuuss/.platformio/penv/bin:/home/fikuuss/.platformio/penv:/home/fikuuss/.cargo/bin:/home/fikuuss/apache-maven-3.6.0/bin:/home/fikuuss/dart-sass:/home/fikuuss/.local/bin:/home/fikuuss/.nvm/versions/node/v10.14.2/bin:/home/fikuuss/.cargo/bin:/home/fikuuss/apache-maven-3.6.0/bin:/home/fikuuss/dart-sass:/home/fikuuss/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
