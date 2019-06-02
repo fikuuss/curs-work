@@ -152,6 +152,11 @@ int main()
       if (zone_1 || zone_2 || zone_3 || zone_4) {
         wi_fi.puts("AZ|" + zone_1 + zone_2 + zone_3 + zone_4);
       }
+    } else {
+      led_orange = 0;
+      led_green = 0;
+      led_red = 0;
+      led_blue = 0;
     }
   }
 }
